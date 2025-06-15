@@ -1,14 +1,14 @@
 menu = """
-
+######### BANCO 24 HORAS #########
 [1] DEPOSITAR
 [2] SACAR
 [3] EXTRATO
 [0] SAIR
-
+##################################
 => """
 
 saldo = 0
-limite = 800
+limite = 500
 extrato = ""
 numero_saques = 0
 LIMITE_SAQUES = 3
